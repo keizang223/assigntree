@@ -1,0 +1,12 @@
+Symlinking /home/student/simple_driving/devel/./local_setup.sh
+Symlinking /home/student/simple_driving/devel/./_setup_util.py
+Symlinking /home/student/simple_driving/devel/./local_setup.bash
+Symlinking /home/student/simple_driving/devel/./setup.sh
+Symlinking /home/student/simple_driving/devel/./setup.bash
+Symlinking /home/student/simple_driving/devel/./setup.zsh
+Symlinking /home/student/simple_driving/devel/./local_setup.zsh
+Symlinking /home/student/simple_driving/devel/./env.sh
+Symlinking /home/student/simple_driving/devel/./cmake.lock
+Symlinking /home/student/simple_driving/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /home/student/simple_driving/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/student/simple_driving/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
